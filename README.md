@@ -18,4 +18,4 @@ Oahu would be a great location to open shop according to our analysis. Without a
 ### Further recommendations
   - Tourists consider other factors such as tides and wind speed to surf. Further analysis of these parameters will provide more clear picture of customer behaviour.
   - Rainy weather would decrease foot traffic and customers to our shop. Analysis of precipitation data on months is highly recommended.
-  - With climate change as one of the big threats to the business, comparing Summary Statistics of aforementioned factors across years to study effect of climate change will help evaluate the viablity of business on long term basis.
+  - With climate change as one of the big threats to the business, comparing Summary Statistics of weather with aforementioned factors across years to study effect of climate change will help evaluate the viablity of business on long term basis.
